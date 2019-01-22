@@ -4,7 +4,7 @@ SOLVE WORLD HUNGER AND OBESITY
 ## Problem
 Millions of people are still dying from malnutrition every year. Around the world, a lack of food is a debilitating, often fatal problem. Nearly one in nine people worldwide are chronically undernourished, and 3.1 million children die of malnutrition each year. Also some people are eating too much food and this can cause healt issues such as to break down food, the stomach produces hydrochloric acid. If you overeat, this acid may back up into the esophagus resulting in heartburn. Consuming too much food that is high in fat, like pizza and cheeseburgers, may make you more susceptible to heartburn. So we have to solve the world hunger and as well as obesity too.  
 
-Note: problem is malnutrion and obesity. heartburn is an issue to, but focus more on obesity.
+Note from teacher: problem is malnutrion and obesity. heartburn is an issue to, but focus more on obesity.
 
 ## Big Fat Idea
 Resolving the global food crisis could cost as much as $30 billion a year and wealthier nations are doing little to help the developing world face the problem. Rather than giving money we can also solve this if can all unite to solve world hunger. So that no one has to die, if we can all help. How? If people can be very helpuf those who are homeless or starving to eat something. Or even if all the governments can help their countries, with giving the oppurtunity to work somewhere or open a place where homless or poor people can come to eat food in every country and if the people who are wealthy can volunteer to help those people willingly. We can solve this problem together so quickly.  
@@ -15,6 +15,8 @@ Also if there could be organization identitfies places where people are eating t
 
 How much food does china waste per year?: Estimates suggest that China generates 17-18 million tonnes of food waste each year – enough to feed 30-50 million people.
 How many days there are in a year?: 1 year= 365 days 
+
+Note from teacher: Make this more focused. Concentrate on YOUR solution.
 
 ## First Agile Iteration
 User inputs: number of people, the average consumed per day by those people, the number of days and the recomended calories per day.
