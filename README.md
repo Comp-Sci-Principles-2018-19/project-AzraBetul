@@ -16,7 +16,7 @@ Also if there could be organization identitfies places where people are eating t
 How much food does china waste per year?: Estimates suggest that China generates 17-18 million tonnes of food waste each year – enough to feed 30-50 million people.
 How many days there are in a year?: 1 year= 365 days 
 
-Note from teacher: Make this more focused. Concentrate on YOUR solution.
+Note from teacher: Make this more focused. Concentrate on YOUR solution. Also check your grammar.
 
 ## First Agile Iteration
 User inputs: number of people, the average consumed per day by those people, the number of days and the recomended calories per day.
